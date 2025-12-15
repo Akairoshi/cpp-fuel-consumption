@@ -1,0 +1,19 @@
+# CMake build directories
+/build/
+/CMakeFiles/
+/CMakeCache.txt
+/Makefile
+/*.cmake
+/*.dir/
+
+
+# Binaries
+*.exe
+*.out
+*.o
+*.obj
+
+# Visual Studio / VS Code
+.vscode/
+*.user
+*.suo
