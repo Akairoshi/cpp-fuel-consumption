@@ -17,5 +17,6 @@ A simple C++ console program that calculates the fuel consumption for multiple t
 
 ### Using g++
 ```bash
-g++ -std=c++17 src/main.cpp -o fuel_consumption
+g++ -std=c++20 src/main.cpp -o fuel_consumption
 ./fuel_consumption
+
